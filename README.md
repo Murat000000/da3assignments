@@ -1,2 +1,2 @@
 # da3assignments
-## 2nd Assignment in the folder with the same name
+## Assignments in the folder with the number and name
